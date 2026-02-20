@@ -1,5 +1,5 @@
 [package]
-name = "playlist_manager"
+name = "holairs_playlist_manager"
 version = "0.1.0"
 edition = "2024"
 
